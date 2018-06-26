@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "marked": "^0.3.6",
-    "simplemde": "^1.11.2"
+    "simplemde-bulma": "github:EIRTeam/simplemde-bulma#development"
   },
   "repository": {
     "type": "git",
